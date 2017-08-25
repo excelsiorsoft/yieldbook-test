@@ -41,3 +41,4 @@ target/
 *.launch
 *.bat
 >>>>>>> branch 'master' of git@github.com:excelsiorsoft/yieldbook-interview.git
+/.recommenders/
